@@ -1,0 +1,74 @@
+# Installer Script - MacOS
+
+## Idea
+
+
+
+## Software
+- HomeBrew
+- Spotify
+- Obsidian
+- Git
+- Google Chrome
+- Alfred
+- Zoom
+- Parallels
+- WhatsApp
+- Tmux
+- Vim
+- Steam
+- Microsoft Office
+- VLC
+- Todoist
+- Polar Flow Sync
+- Brave Browser
+- Kindle
+- Zwift
+- Raspberry Pi Imager
+- Shadow
+
+- Visual Studo 
+- Anaconda
+## Script
+### HomeBrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+### Spotify
+brew install --cask spotify
+### Obsidian
+brew install --cask obsidian
+### Git
+brew install git
+### Google Chrome
+brew install --cask google-chrome
+### Alfred
+brew install --cask alfred
+### Zoom
+brew install --cask zoom
+### Parallels
+brew install --cask parallels
+### WhatsApp
+brew install --cask whatsapp
+### Tmux
+brew install tmux
+### Vim
+brew install vim
+### Steam
+brew install --cask steam
+### Microsoft Office
+brew install --cask microsoft-office
+### VLC
+brew install --cask vlc
+### Todoist
+brew install --cask todoist
+### Polar Flow Sync
+brew install --cask flowsync
+### Brave Browser
+brew install --cask brave-browser
+### Kindle
+brew install --cask kindle
+### Zwift
+brew install --cask zwift
+### Raspberry Pi Imager
+brew install --cask raspberry-pi-imager
+### Shadow
+brew install --cask shadow
